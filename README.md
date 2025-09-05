@@ -22,7 +22,7 @@ Employee demographics (age, gender, education, marital status).<br>
 Job-related attributes (department, role, years at company, salary).<br>
 Attrition details (voluntary, involuntary, resignation).<br>
 Performance ratings and satisfaction scores.<br>
-(Dataset source: Kaggle HR Analytics Dataset or custom-prepared dataset)<br><br>
+(Dataset source: Kaggle HR Analytics Dataset)<br><br>
 
 <h2>📸 Dashboard Preview:</h2>
 
